@@ -14,7 +14,7 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 
 ## 📝 Backlog de Produto 📝
 
-## Acesse o [Backlog](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf)
+## Acesse o [Backlog](https://github.com/micaiasviola/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf)
 ## 📆 Cronograma de evolução do produto 📆
 
 | Sprint | Período | Documentação |
