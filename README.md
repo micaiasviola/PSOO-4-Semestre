@@ -20,6 +20,10 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 | Sprint | Período | Documentação |
 |----------|--------|------------|
 | 🎟  **SPRINT 1** | 19/08 - 25/08 | [Ver no GitHub](https://github.com/micaiasviola/PSOO-4-Semestre/tree/main/Diagrama%20UML/Caso%20de%20%20Uso) |
+| 🎟  **SPRINT 2** | 26/08 - 01/08 | ... |
+## SPRINT BACKLOG
+
+
 
 
 ## 💻 Tecnologias Utilizadas 💻
